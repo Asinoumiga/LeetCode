@@ -1,4 +1,4 @@
-package com.tello.leetcode.q1to1000.q100to200.q190to200;
+package com.tello.leetcode.q1to1000.q101to200.q191to200;
 
 //198. ¥Úº“ΩŸ…·
 public class Leetcode198 {

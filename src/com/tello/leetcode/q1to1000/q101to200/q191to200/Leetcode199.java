@@ -1,6 +1,4 @@
-package com.tello.leetcode.q1to1000.q100to200.q190to200;
-
-import com.tello.leetcode.q1to1000.q100to200.q120to130.leetcode124;
+package com.tello.leetcode.q1to1000.q101to200.q191to200;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

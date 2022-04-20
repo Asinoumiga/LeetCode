@@ -1,4 +1,4 @@
-package com.tello.leetcode.q1to1000.q100to200.q120to130;
+package com.tello.leetcode.q1to1000.q101to200.q121to130;
 
 //124. 二叉树中的最大路径和
 public class leetcode124 {

@@ -1,4 +1,4 @@
-package com.tello.leetcode.q1001to2000.q1481to1490;
+package com.tello.leetcode.q1001to2000.q1401to1500.q1481to1490;
 
 import java.util.HashMap;
 import java.util.Map;

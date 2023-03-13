@@ -1,4 +1,4 @@
-package com.tello.leetcode.q1to1000.q301to400.q331to340;
+package com.tello.leetcode.q1to1000.q301to400.q341to350;
 
 public class Leetcode343 {
     public int integerBreak(int n) {
